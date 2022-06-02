@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="moveit_py3" type="moveit_py3_node.py" name="moveit_py3" output="screen"/>
+</launch>
